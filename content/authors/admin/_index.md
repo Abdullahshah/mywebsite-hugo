@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:abdullahshah@gatech.edu"  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fa
-  link = "//linkedin.com/in/abdullahshah~"
+#- icon: linkedin
+#  icon_pack: fa
+#  link = "//linkedin.com/in/abdullahshah~"
 - icon: github
   icon_pack: fab
   link: https://github.com/abdullahshah
