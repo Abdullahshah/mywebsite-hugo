@@ -24,6 +24,7 @@ interests:
 - Artificial Intelligence
 - Data Engineering
 - Systems for Machine Learning
+- https://thehalalguys.com/
 
 education:
   courses:
