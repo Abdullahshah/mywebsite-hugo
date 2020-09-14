@@ -94,6 +94,6 @@ visualizations of low voltage products.
 customers in product selection.
 * Wrote bash scripts to assist Open Orders Team to improve project and file
 management.
-
+"""
 
 +++
