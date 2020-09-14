@@ -29,10 +29,10 @@ education:
   courses:
   - course: MS in Machine Learning
     institution: Georgia Institute of Technology
-    year: 2022
+    year: 2021-2022
   - course: BS in Computer Science
     institution: Georgia Institute of Technology
-    year: 2021
+    year: 2018-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
