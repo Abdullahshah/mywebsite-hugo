@@ -27,8 +27,8 @@ interests:
 
 education:
   courses:
-  - course: MS in Computer Science/Machine Learning
-    institution: Massachusetts Institute of Technology
+  - course: MS in Machine Learning
+    institution: Georgia Institute of Technology
     year: 2022
   - course: BS in Computer Science
     institution: Georgia Institute of Technology
