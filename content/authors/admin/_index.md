@@ -18,12 +18,12 @@ organizations:
   url: "https://www.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed machine learning systems and semi-supervised machine learning.
 
 interests:
 - Artificial Intelligence
 - Data Engineering
-- Systems for Machine Learning
+- Semi-Supervised Machine Learning
 - https://thehalalguys.com/
 
 education:
@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:abdullahshah@gatech.edu"  # For a direct email link, use "mailto:test@example.org".
-#- icon: linkedin
-#  icon_pack: fa
-#  link = "//linkedin.com/in/abdullahshah~"
+- icon: linkedin
+  icon_pack: fa
+  link = "https://www.linkedin.com/in/abdullahshah~/"
 - icon: github
   icon_pack: fab
   link: https://github.com/abdullahshah
@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am a BSMS Computer Science student at the <a href="https://www.cc.gatech.edu/" target="_blank">Georgia Institute of Technology</a> working as an undergraduate researcher in the <a href="https://db.cc.gatech.edu/" target="_blank">Georgia Tech Database Group</a> under <a href="https://www.cc.gatech.edu/~jarulraj/" target="_blank">Prof. Joy Arulraj</a>. My primary research focus is working on query processing and accelerating object detection on the video analytics platform, <a href="https://github.com/georgia-tech-db/eva" target="_blank">Exploratory Video Analytics (EVA) </a>. I've previously worked as a Data Engineering Intern and Machine Learning Intern at Amazon Web Services (AWS), Home Depot, and Fraudscope. 
+I am a Masters Computer Science student at the <a href="https://www.cc.gatech.edu/" target="_blank">Georgia Institute of Technology</a> working as an graduate researcher in the <a href="https://db.cc.gatech.edu/" target="_blank">Georgia Tech Database Group</a> under <a href="https://www.cc.gatech.edu/~jarulraj/" target="_blank">Prof. Joy Arulraj</a>. My primary research focus is working on query processing and accelerating object detection on the video analytics platform, <a href="https://github.com/georgia-tech-db/eva" target="_blank">Exploratory Video Analytics (EVA) </a>. I've previously worked as a Machine Learning Engineer Intern at Google, Data Engineering Intern at Amazon Web Services and Machine Learning Intern at Home Depot, among a variey of other experiences. 
